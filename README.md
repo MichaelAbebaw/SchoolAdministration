@@ -1,2 +1,2 @@
 # SchoolAdministration
-Part of a school administrative system, group management module.
+Part of a school administration system, group management module.
