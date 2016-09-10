@@ -23,6 +23,7 @@ Add additional notes about how to deploy this on a live system
 
 Sketch of the class diagram.
 
+![classdiagram](https://cloud.githubusercontent.com/assets/16080581/18412714/338d7f42-7796-11e6-9d5c-8cbc9a48f965.png)
 
 ## Authors
 
