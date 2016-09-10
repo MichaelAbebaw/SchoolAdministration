@@ -8,7 +8,7 @@ Students of a school are divided into classes, usually one or more per grade lev
 
 ## Prerequisites
 
-Java 1.8.0_101  
+Java 8 
 
 ## Deployment
 
