@@ -37,6 +37,7 @@ public class GroupTest {
         g1.addStudent(std2);
         g1.addStudent(std3);
         g1.addStudent(std4);
+        g1.addStudent(std5);
     }
 
     @After
