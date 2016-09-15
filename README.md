@@ -10,10 +10,6 @@ Students of a school are divided into classes, usually one or more per grade lev
 
 Java 8 
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * Maven 4.0.0 
